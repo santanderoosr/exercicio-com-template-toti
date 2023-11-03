@@ -1,10 +1,10 @@
-html {
+* {
     font-weight: 700;
   
   font-size: 32px;
   line-height: 48px;
   color: black;
-  cursor: pointer
+
 }
 
 h1 {
@@ -14,5 +14,29 @@ h1 {
   font-size: 32px;
   line-height: 48px;
   color: #e4871b;
-  cursor: pointer
+  cursor: pointer;
+}
+
+p {
+  font-family: "roboto", sans-serif;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 17px;
+  color: #8c8d91;
+}
+
+button {
+  font-family: "roboto", sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 17px;
+  color: #1b1c23;
+
+}
+li {
+  font-family: "roboto", sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 17px;
+  color: #1b1c23;
 }
